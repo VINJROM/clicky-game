@@ -1,6 +1,6 @@
 .wrapper {
-  background: rgb(175, 175, 175);
-  background-image: url('https://images7.alphacoders.com/400/thumb-1920-400623.jpg');
+  background: rgb(38, 119, 6);
+  /* background-image: url('https://wallpapermemory.com/uploads/796/it-s-always-sunny-in-philadelphia-background-hd-2560x1440-344733.jpg'); */
   height: 100%;
   display: flex;
   flex-flow: row wrap;
